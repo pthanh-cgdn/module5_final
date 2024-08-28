@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "code": "PROD-0001",
+      "name": "Blackmore Omega",
+      "categoryId": 1,
+      "description": "",
+      "inputDate": "2020-08-10",
+      "quantity": 10,
+      "price": 598000
+    },
+    {
+      "id": 2,
+      "code": "PROD-0002",
+      "name": "Efferalgan",
+      "categoryId": 2,
+      "description": "",
+      "inputDate": "2020-08-12",
+      "quantity": 65,
+      "price": 30000
+    },
+    {
+      "id": 3,
+      "code": "PROD-0003",
+      "name": "Nhiet ke hong ngoai Kachi JXB-315",
+      "categoryId": 3,
+      "description": "",
+      "inputDate": "2020-08-15",
+      "quantity": 20,
+      "price": 7680000
+    },
+    {
+      "code": "PROD-0004",
+      "name": "Fucaca",
+      "description": "Thus xo giun",
+      "categoryId": 2,
+      "price": 150000,
+      "quantity": 35,
+      "inputDate": "2024-08-28",
+      "id": 4
+    },
+    {
+      "code": "PROD-0006",
+      "name": "Vitamin C",
+      "description": "Bo sung vitaminC",
+      "category": 0,
+      "price": 50000,
+      "quantity": 14,
+      "inputDate": "2024-08-27",
+      "categoryId": "2",
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Thuc pham chuc nang"
+    },
+    {
+      "id": 2,
+      "name": "Duoc pham"
+    },
+    {
+      "id": 3,
+      "name": "Thiet bi y te"
+    }
+  ]
+}
