@@ -81,7 +81,7 @@ function ProductCreate() {
                             className="form-control w-50"
                             id="code"
                         />
-                        <ErrorMessage className="error" name="code" component="p"></ErrorMessage>
+                        <ErrorMessage className="text-danger" name="code" component="p"></ErrorMessage>
                     </div>
 
                     <div className="mb-3">
@@ -92,7 +92,7 @@ function ProductCreate() {
                             className="form-control w-50"
                             id="name"
                         />
-                        <ErrorMessage className="error" name="name" component="p"></ErrorMessage>
+                        <ErrorMessage className="text-danger" name="name" component="p"></ErrorMessage>
                     </div>
 
                     <div className="mb-3">
@@ -105,7 +105,7 @@ function ProductCreate() {
                                 </option>
                             ))}
                         </Field>
-                        <ErrorMessage className="error" name="category" component="p"></ErrorMessage>
+                        <ErrorMessage className="text-danger" name="category" component="p"></ErrorMessage>
                     </div>
 
                     <div className="mb-3">
@@ -116,7 +116,7 @@ function ProductCreate() {
                             className="form-control w-50"
                             id="price"
                         />
-                        <ErrorMessage className="error" name="price" component="p"></ErrorMessage>
+                        <ErrorMessage className="text-danger" name="price" component="p"></ErrorMessage>
                     </div>
 
                     <div className="mb-3">
@@ -127,7 +127,7 @@ function ProductCreate() {
                             className="form-control w-50"
                             id="quantity"
                         />
-                        <ErrorMessage className="error" name="quantity" component="p"></ErrorMessage>
+                        <ErrorMessage className="text-danger" name="quantity" component="p"></ErrorMessage>
                     </div>
 
 
@@ -139,7 +139,7 @@ function ProductCreate() {
                             className="form-control w-50"
                             id="inputDate"
                         />
-                        <ErrorMessage className="error" name="inputDate" component="p"></ErrorMessage>
+                        <ErrorMessage className="text-danger" name="inputDate" component="p"></ErrorMessage>
                     </div>
 
                     <div className="mb-3">
@@ -150,7 +150,7 @@ function ProductCreate() {
                             className="form-control w-50"
                             id="description"
                         />
-                        <ErrorMessage className="error" name="description" component="p"></ErrorMessage>
+                        <ErrorMessage className="text-danger" name="description" component="p"></ErrorMessage>
                     </div>
 
                     <div className="d-flex justify-content-between align-items-center">

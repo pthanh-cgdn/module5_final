@@ -50,6 +50,18 @@
       "inputDate": "2024-08-27",
       "categoryId": "2",
       "id": 5
+    },
+    {
+      "code": "PROD-0007",
+      "name": "Panadol",
+      "description": "Thuoc cam cung",
+      "category": 0,
+      "price": 20000,
+      "quantity": 50,
+      "input": "",
+      "categoryId": "2",
+      "inputDate": "2024-08-27",
+      "id": 6
     }
   ],
   "categories": [
